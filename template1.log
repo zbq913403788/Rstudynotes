@@ -1,0 +1,136 @@
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2019.5.8)  3 MAR 2020 06:01
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"/Users/zhengbuqing/Desktop/桌面/Study Material/Latex/Template/Template 1/template1"
+(/Users/zhengbuqing/Desktop/桌面/Study Material/Latex/Template/Template 1/template1.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2019/02/01 v3.26b KOMA-Script document class (article)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2019/02/01 v3.26b KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2019/02/01 v3.26b KOMA-Script package (loading files)
+))) (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2019/02/01 v3.26b KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box27
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 134.
+Package scrartcl Info: You've used standard option `11pt'.
+(scrartcl)             This is correct!
+(scrartcl)             Internally I'm using `fontsize=11pt'.
+(scrartcl)             If you'd like to set the option with \KOMAoptions,
+(scrartcl)             you'd have to use `fontsize=11pt' there
+(scrartcl)             instead of `11pt', too.
+Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input line 2162.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2019/02/01 v3.26b KOMA-Script font size class option (11pt)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2019/02/01 v3.26b KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count80
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1715.
+)
+\c@part=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\scr@dte@section@maxnumwidth=\skip47
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\section on input line 4489.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\section on input line 4489.
+\scr@dte@part@maxnumwidth=\skip48
+Class scrartcl Info: using compatibility default `afterindent=false'
+(scrartcl)           for `\part on input line 4497.
+\scr@dte@subsection@maxnumwidth=\skip49
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsection on input line 4507.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsection on input line 4507.
+\scr@dte@subsubsection@maxnumwidth=\skip50
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subsubsection on input line 4517.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subsubsection on input line 4517.
+\scr@dte@paragraph@maxnumwidth=\skip51
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\paragraph on input line 4527.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\paragraph on input line 4527.
+\scr@dte@subparagraph@maxnumwidth=\skip52
+Class scrartcl Info: using compatibility default `runin=bysign'
+(scrartcl)           for `\subparagraph on input line 4537.
+Class scrartcl Info: using compatibility default `afterindent=bysign'
+(scrartcl)           for `\subparagraph on input line 4537.
+\abovecaptionskip=\skip53
+\belowcaptionskip=\skip54
+\c@pti@nb@sid@b@x=\box28
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 5781.
+\scr@dte@figure@maxnumwidth=\skip55
+\c@figure=\count87
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 5793.
+\scr@dte@table@maxnumwidth=\skip56
+\c@table=\count88
+Class scrartcl Info: Redefining `\numberline' on input line 5957.
+\bibindent=\dimen102
+)
+
+! LaTeX Error: File `structure.tex' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
+
+Enter file name: 
+/Users/zhengbuqing/Desktop/桌面/Study Material/Latex/Template/Template 1/template1.tex:3: Emergency stop.
+<read *> 
+         
+l.3 \input{structure.tex}
+                          % Include the file specifying the document structu...
+*** (cannot \read from terminal in nonstop modes)
+
+ 
+Here is how much of TeX's memory you used:
+ 2253 strings out of 492916
+ 44870 string characters out of 6133346
+ 227074 words of memory out of 5000000
+ 6375 multiletter control sequences out of 15000+600000
+ 3648 words of font info for 15 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 41i,1n,51p,9157b,136s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.
